@@ -177,10 +177,22 @@ If you see "GEMINI_API_KEY environment variable is missing":
 
 ## License
 
-[Add your license here]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
-[Add contribution guidelines if applicable]
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Authors
+
+- **Harshita Jain** (23UCC547)
+- **Himanshi Bhamu** (23UCC549)
+- **Yashi Srivastava** (23UCC620)
+
+Under the guidance of:
+- Dr. Ashish Kumar Dwivedi
+- Dr. Anubhav Shivhare
+
+The LNM Institute of Information Technology, Jaipur
 
 >>>>>>> 3b30d9c (Initial commit: AI-Assisted Symbolic Execution Engine)

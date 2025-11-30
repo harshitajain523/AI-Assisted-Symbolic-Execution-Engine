@@ -56,3 +56,27 @@ workspace/reports/*.html
 Thumbs.db
 .DS_Store
 
+# Project-specific temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
