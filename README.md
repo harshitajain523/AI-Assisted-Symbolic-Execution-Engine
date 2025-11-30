@@ -183,4 +183,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Authors
 
-- **Harshita Jain** (23UCC547)
+- **Harshita Jain**
+- 
+
