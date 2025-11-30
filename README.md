@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# AI-Assisted-Symbolic-Execution-Engine
-=======
+
 # AI-Assisted Symbolic Execution Engine
 
 A full-stack application that combines KLEE symbolic execution with AI-powered code repair capabilities. The system analyzes C programs for memory safety vulnerabilities, generates repair suggestions using Google's Gemini API, and validates the fixes through automated testing.
@@ -383,5 +380,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Authors
 
 - **Harshita Jain** 
+
 
 >>>>>>> 1febc9b (Update LICENSE and README with simplified author information)
